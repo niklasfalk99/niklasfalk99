@@ -17,7 +17,3 @@ Previously Product Manager & Founder's Associate at Atomico-backed AI Security S
 ## 📫 Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/niklas-falk/)
-
----
-
-_Always open to collaboration and new opportunities in AI & Machine Learning!_
