@@ -2,7 +2,7 @@
 
 **MSc Student in Machine Learning at UCL**  
 
-Previously Product Manager & Founder's Associate at Atomico-backed AI Security Start-Up [Lakera](https://lakera.ai).
+Previously Product Manager & Founder's Associate at Atomico-backed AI Security Start-Up [Lakera](https://lakera.ai).  
 Currently researching on Multi-Agent Reinforcement Learning with Prof. Emine Yilmaz from the Web Intelligence Group.
 
 ## 🚀 Featured Projects
