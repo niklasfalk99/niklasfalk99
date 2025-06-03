@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niklas
+# 👋 Hi, I'm Niklas!
 
 **MSc Student in Machine Learning at UCL**  
 
