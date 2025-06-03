@@ -5,7 +5,7 @@ Previously Product Manager & Founder's Associate at Atomico-backed AI Security S
 
 ## 🚀 Featured Projects
 
-- **Semantic Context Tokens:**  
+- **Semantic Context Tokens: A Coarse-to-Fine Approach to Autoregressive Text Generation:**  
   Developed a novel coarse-to-fine semantic tokenization approach integrating global and local context (inspired by Meta’s Large Concept Model) to enhance autoregressive LLM story generation, boosting narrative cohesion and creativity on the TinyStories benchmark.
 
 - **Domain-Agnostic Novel Agent Design through Autonomous, Open-Ended Evolutionary Search:**  
