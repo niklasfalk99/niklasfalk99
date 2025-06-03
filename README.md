@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niklas Falk
+# 👋 Hi, I'm Niklas
 
 **MSc Student in Machine Learning at UCL**  
 Previously Product Manager & Founder's Associate at Atomico-backed AI Security Start-Up [Lakera](https://lakera.ai).
