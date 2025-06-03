@@ -8,7 +8,7 @@ Previously Product Manager & Founder's Associate at Atomico-backed AI Security S
 - **Semantic Context Tokens:**  
   Developed a novel coarse-to-fine semantic tokenization approach integrating global and local context (inspired by Meta’s Large Concept Model) to enhance autoregressive LLM story generation, boosting narrative cohesion and creativity on the TinyStories benchmark.
 
-- **Domain-Agnostic Novel Agent Design:**  
+- **Domain-Agnostic Novel Agent Design through Autonomous, Open-Ended Evolutionary Search:**  
   Applied evolutionary search to automatically develop intelligent LLM agents that outperform hand-crafted state-of-the-art solutions and benchmarks (inspired by NeurIPS 2024 outstanding paper "Autonomous Design of Agentic Systems"). Find [repository](https://github.com/SebastianSigur/ES-ADAS) and [paper](https://drive.google.com/file/d/1IZnOFobB7bn0eUrppfxdF7BXgG3QuGCL/view?usp=sharing) here.
 
 - **IIElevenLabs x a16z AI Agent Hackathon:**  
