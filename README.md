@@ -8,7 +8,7 @@ Currently researching on Multi-Agent Reinforcement Learning with Prof. Emine Yil
 ## 🚀 Featured Projects
 
 - **Semantic Context Tokens: A Coarse-to-Fine Approach to Autoregressive Text Generation:**  
-  Developed a novel coarse-to-fine semantic tokenization approach integrating global and local context (inspired by [Meta’s Large Concept Model paper](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/)) to enhance autoregressive LLM story generation, boosting narrative cohesion and creativity on the TinyStories benchmark.
+  Developed a novel coarse-to-fine semantic tokenization approach integrating global and local context (inspired by [Meta’s Large Concept Model paper](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/)) to enhance autoregressive LLM story generation, boosting narrative cohesion and creativity on the TinyStories benchmark. Find [repository](https://github.com/niklasfalk99/nlp_semantic_context_token_model) and [paper]() here.
 
 - **Domain-Agnostic Novel Agent Design through Autonomous, Open-Ended Evolutionary Search:**  
   Applied evolutionary search to automatically develop intelligent LLM agents that outperform hand-crafted state-of-the-art solutions and benchmarks (inspired by NeurIPS 2024 outstanding paper "Autonomous Design of Agentic Systems"). Find [repository](https://github.com/SebastianSigur/ES-ADAS) and [paper](https://drive.google.com/file/d/1IZnOFobB7bn0eUrppfxdF7BXgG3QuGCL/view?usp=sharing) here.
